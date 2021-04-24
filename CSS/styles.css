@@ -1,0 +1,26 @@
+body{
+  background-color: #cbf1f5;
+  text-align: left;
+  margin:auto;
+  width: 75%;
+  font-family: sans-serif;
+}
+h1{
+  color: #687980;
+}
+h2{
+  color: #687980;
+}
+h3{
+  color: #687980;
+}
+h4{
+  color: #687980;
+}
+p{
+  color: #02475e;
+}
+td{
+  padding: 10px;
+  color: #02475e;
+}
