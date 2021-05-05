@@ -1,0 +1,5 @@
+Lab 1 installed the Ubuntu Server and CentOS 7 VMs, as well as CygWin Windows Bash Terminal.
+
+Included is copies of the VMs as of install, and various screenshots as proof of completing certain parts, as well as a history screenshot of each VM.
+
+Included is a PDF of the Lab 1 pages.
