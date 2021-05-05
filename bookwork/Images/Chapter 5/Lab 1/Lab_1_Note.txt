@@ -1,0 +1,5 @@
+4/16/2021 - Chapter 5 Lab 1... doesn't *work*. Tries to use:
+
+sudo find / -type f \( -perm 4000 -o -perm 2000 \) -ls > suid_sgid_files.txt
+
+to print all the SUID or SGID enabled files to a text document. It prints an error about missing a couple files in /proc and no text file at all.
